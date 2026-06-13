@@ -23,5 +23,5 @@ I secured Day 0 shortlists for both **AmEx** and **BlackRock**. Since the interv
 
 ### Selection Stats
 * **Total Hires:** 18 (including SWE and DA roles).
-* **Branch Breakdown:** 1 from MS1, 1 from ME2, and the rest from CS, MT, EE, and AM.
+* **Branch Breakdown:** 1 from MS1, 2 from ME2, 1 from CH1, and the rest from CS, MT, EE, and AM.
 * **CGPA Cutoff:** 8.0 and above.
